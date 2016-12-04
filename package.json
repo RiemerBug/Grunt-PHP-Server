@@ -1,0 +1,10 @@
+{
+  "name": "GruntPHP",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-php": "^1.5.1",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
