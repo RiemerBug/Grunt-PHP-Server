@@ -15,13 +15,13 @@ module.exports = function(grunt) {
             }
         },
         watch:{
-            files: ['*.php', 'style/*.css', 'js/*.js' ],
+            files: ['*.php', '*.html', 'style/*.css', 'js/*.js' ],
             options: {
-                livereload: true,
+                livereload: true
             }
 
         }
     });
 
     grunt.registerTask('default', ['php', 'watch']);
-}
+};

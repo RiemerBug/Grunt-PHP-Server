@@ -16,11 +16,11 @@
     <!-- /build -->
 </head>
 <body>
-<div id="app-container">hallo world</div>
+<div id="app-container">Hallo World</div>
 <?php
 /**
  * Created by PhpStorm.
- * User: rwoy
+ * User: RiemerBug
  * Date: 25.11.2016
  * Time: 16:51
  */
