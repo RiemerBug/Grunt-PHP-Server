@@ -1,3 +1,4 @@
+[![Dependencies Status](https://david-dm.org/RiemerBug/Grunt-PHP-Server.svg)](https://david-dm.org/RiemerBug/Grunt-PHP-Server)
 #Grunt PHP Server
 
 a simple php web server, there is runing with *grunt-php* und a watch task
